@@ -1,0 +1,12 @@
+[
+  "hubot-help",
+  "hubot-rules",
+  "hubot-responder",
+  "hubot-redis-brain",
+  "hubot-bookmark",
+  "hubot-remind-her",
+  "hubot-whois",
+  "hubot-daily-update",
+  "hubot-todo",
+  "hubot-custom-news"
+]
